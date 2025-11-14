@@ -1,0 +1,15 @@
+{
+  "name": "LUNIPI Token List",
+  "logoURI": "https://i.ibb.co/NdMKN5Dt/E3-EFF1-B1-29-FE-4-C88-907-D-78-BCFD4-E29-F9.png",
+  "timestamp": "2025-11-15T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xDa122831079e0b25607d15D52BD899e4430e1230",
+      "name": "LUNIPI",
+      "symbol": "LUNI",
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/NdMKN5Dt/E3-EFF1-B1-29-FE-4-C88-907-D-78-BCFD4-E29-F9.png"
+    }
+  ]
+}
